@@ -5,7 +5,7 @@ import VideoList from './VideoList';
 import VideoDetail from './VideoDetail';
 import _ from 'lodash';
 
-const API_KEY = "AIzaSyCk2GvKHAPrWj0KlGgYxP6M3Y_DxAfA8OI";
+const API_KEY = "YOUR_YOUTUBE_API_KEY";
 const logo = "././assets/logo.png";
 
 class Main extends Component {
